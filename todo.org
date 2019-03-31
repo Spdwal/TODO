@@ -1,0 +1,54 @@
+* TODO 服务器编程 [%]
+** TODO APUE
+** TODO UNP
+** TODO Unix-Linux编程实践教程
+** TODO Linux多线程服务端编程
+** TODO Linux命令行与shell脚本编程大全
+** TODO Windows程序设计第五版
+** TODO Libevent源码阅读
+** TODO nginx源码阅读
+* TODO 操作系统 [%]
+** DONE MIT 6.828
+   CLOSED: [2019-03-31 日 19:07]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-03-31 日 19:07]
+   :END:
+** TODO Linux内核与实现
+* TODO 网络 [%]
+** DONE 计算机网络 自顶向下方法
+   CLOSED: [2019-03-31 日 19:07]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-03-31 日 19:07]
+   :END:
+** TODO TCP/IP详解
+* TODO 数据结构与算法 [%]
+** DONE 算法第四版
+   CLOSED: [2019-03-31 日 19:07]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-03-31 日 19:07]
+   :END:
+** TODO 算法导论
+* TODO 计算机组成原理 [%]
+** DONE 深入理解计算机系统
+   CLOSED: [2019-03-31 日 19:07]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2019-03-31 日 19:07]
+   :END:
+** TODO 深入理解计算机系统Labs
+** TODO 计算机体协结构 量化研究方法
+* TODO 编译原理 [%]
+** TODO 编译原理
+* TODO 数学 [%]
+** TODO MIT 6.042
+** TODO 实分析 By 陶哲轩
+** TODO 数学分析 By zorich
+** TODO Linear Algebra Done Right
+** TODO A Book of Abstract Algebra
+** TODO Algebra: Chapter 0
+** TODO A course in Functional Analysis
+** TODO Topology By James R.Munkres
+** TODO Algebraic Topology
+* TODO 具体语言 [%]
+** TODO ANSI common lisp
+** TODO Emacs Lisp reference
+** TODO The Haskell book
